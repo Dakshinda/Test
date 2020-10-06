@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="LbN1">Number 1 :</string>
+    <string name="lbN2">Number 2 :</string>
+    <string name="btnOK">OK</string>
+    <string name="AnswerTxt">Answer</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnMul">*</string>
+    <string name="btnDiv">/</string>
+</resources>
